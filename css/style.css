@@ -2,6 +2,9 @@
 html, body {
     height: 100%;
     background-color: #1D2125;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
 }
 
 h1,h2,h3,h4,h5 {
